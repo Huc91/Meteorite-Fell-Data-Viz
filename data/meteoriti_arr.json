@@ -1,0 +1,4910 @@
+[
+  {
+    "index": 982,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        43.73333,
+        19.38333
+      ]
+    },
+    "id": 23885,
+    "mass": 2500,
+    "name": "Tathlith",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 19.38333,
+    "reclong": 43.73333,
+    "year": "1967"
+  },
+  {
+    "index": 695,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": null,
+    "id": 16975,
+    "mass": 3.3,
+    "name": "Niger (LL6)",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": null,
+    "reclong": null,
+    "year": "1967"
+  },
+  {
+    "index": 233,
+    ":@computed_region_cbhk_fwbd": 9,
+    ":@computed_region_nnqa_25f4": 1444,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -104.93056,
+        39.7825
+      ]
+    },
+    "id": 6660,
+    "mass": 230,
+    "name": "Denver",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 39.7825,
+    "reclong": -104.93056,
+    "year": "1967"
+  },
+  {
+    "index": 694,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": null,
+    "id": 16974,
+    "mass": 3.3,
+    "name": "Niger (L6)",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": null,
+    "reclong": null,
+    "year": "1967"
+  },
+  {
+    "index": 761,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -40.7,
+        -6.23333
+      ]
+    },
+    "id": 18102,
+    "mass": 2000,
+    "name": "Parambu",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": -6.23333,
+    "reclong": -40.7,
+    "year": "1967"
+  },
+  {
+    "index": 485,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        24.68333,
+        11.63333
+      ]
+    },
+    "id": 12316,
+    "mass": 67.4,
+    "name": "Kingai",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 11.63333,
+    "reclong": 24.68333,
+    "year": "1967"
+  },
+  {
+    "index": 63,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        32.83333,
+        2.71667
+      ]
+    },
+    "id": 4910,
+    "mass": 134,
+    "name": "Awere",
+    "nametype": "Valid",
+    "recclass": "L4",
+    "reclat": 2.71667,
+    "reclong": 32.83333,
+    "year": "1968"
+  },
+  {
+    "index": 880,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -100.65,
+        19.76667
+      ]
+    },
+    "id": 34063,
+    "mass": 460,
+    "name": "San Pedro Jacuaro",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 19.76667,
+    "reclong": -100.65,
+    "year": "1968"
+  },
+  {
+    "index": 792,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.50222,
+        44.24417
+      ]
+    },
+    "id": 18813,
+    "mass": 13.1,
+    "name": "Piancaldoli",
+    "nametype": "Valid",
+    "recclass": "LL3.4",
+    "reclat": 44.24417,
+    "reclong": 11.50222,
+    "year": "1968"
+  },
+  {
+    "index": 893,
+    ":@computed_region_cbhk_fwbd": 47,
+    ":@computed_region_nnqa_25f4": 2142,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -73.95028,
+        42.86083
+      ]
+    },
+    "id": 23458,
+    "mass": 283.3,
+    "name": "Schenectady",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 42.86083,
+    "reclong": -73.95028,
+    "year": "1968"
+  },
+  {
+    "index": 429,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -7.27,
+        38.74028
+      ]
+    },
+    "id": 12213,
+    "mass": 25250,
+    "name": "Juromenha",
+    "nametype": "Valid",
+    "recclass": "Iron, IIIAB",
+    "reclat": 38.74028,
+    "reclong": -7.27,
+    "year": "1968"
+  },
+  {
+    "index": 139,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -6.33333,
+        54.56667
+      ]
+    },
+    "id": 5121,
+    "mass": 5460,
+    "name": "Bovedy",
+    "nametype": "Valid",
+    "recclass": "L3",
+    "reclat": 54.56667,
+    "reclong": -6.33333,
+    "year": "1969"
+  },
+  {
+    "index": 29,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -105.31667,
+        26.96667
+      ]
+    },
+    "id": 2278,
+    "mass": 2000000,
+    "name": "Allende",
+    "nametype": "Valid",
+    "recclass": "CV3",
+    "reclat": 26.96667,
+    "reclong": -105.31667,
+    "year": "1969"
+  },
+  {
+    "index": 767,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        82.05,
+        20.93694
+      ]
+    },
+    "id": 18112,
+    "mass": 4375,
+    "name": "Patora",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 20.93694,
+    "reclong": 82.05,
+    "year": "1969"
+  },
+  {
+    "index": 963,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        16.26333,
+        50.53806
+      ]
+    },
+    "id": 23737,
+    "mass": 815.3,
+    "name": "Suchy Dul",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 50.53806,
+    "reclong": 16.26333,
+    "year": "1969"
+  },
+  {
+    "index": 662,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        145.2,
+        -36.61667
+      ]
+    },
+    "id": 16875,
+    "mass": 100000,
+    "name": "Murchison",
+    "nametype": "Valid",
+    "recclass": "CM2",
+    "reclat": -36.61667,
+    "reclong": 145.2,
+    "year": "1969"
+  },
+  {
+    "index": 35,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        37.5,
+        48.7
+      ]
+    },
+    "id": 2296,
+    "mass": 600,
+    "name": "Andreevka",
+    "nametype": "Valid",
+    "recclass": "L3",
+    "reclat": 48.7,
+    "reclong": 37.5,
+    "year": "1969"
+  },
+  {
+    "index": 552,
+    ":@computed_region_cbhk_fwbd": 20,
+    ":@computed_region_nnqa_25f4": 2711,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -95.15,
+        36.00833
+      ]
+    },
+    "id": 14711,
+    "mass": 17000,
+    "name": "Lost City",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 36.00833,
+    "reclong": -95.15,
+    "year": "1970"
+  },
+  {
+    "index": 576,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        31.75,
+        9.5
+      ]
+    },
+    "id": 15394,
+    "mass": 2000,
+    "name": "Malakal",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 9.5,
+    "reclong": 31.75,
+    "year": "1970"
+  },
+  {
+    "index": 685,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        35.33333,
+        9.5
+      ]
+    },
+    "id": 16941,
+    "mass": 2450,
+    "name": "Nejo",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 9.5,
+    "reclong": 35.33333,
+    "year": "1970"
+  },
+  {
+    "index": 252,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        120.78333,
+        32.91667
+      ]
+    },
+    "id": 7708,
+    "mass": 5500,
+    "name": "Dongtai",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 32.91667,
+    "reclong": 120.78333,
+    "year": "1970"
+  },
+  {
+    "index": 479,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -11.33333,
+        16.58333
+      ]
+    },
+    "id": 12303,
+    "mass": 1500,
+    "name": "Kiffa",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 16.58333,
+    "reclong": -11.33333,
+    "year": "1970"
+  },
+  {
+    "index": 266,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        31.31667,
+        -27.2
+      ]
+    },
+    "id": 7755,
+    "mass": 3230,
+    "name": "Dwaleni",
+    "nametype": "Valid",
+    "recclass": "H4-6",
+    "reclat": -27.2,
+    "reclong": 31.31667,
+    "year": "1970"
+  },
+  {
+    "index": 993,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        1.53333,
+        14.25
+      ]
+    },
+    "id": 23999,
+    "mass": 3000,
+    "name": "Tillaberi",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 14.25,
+    "reclong": 1.53333,
+    "year": "1970"
+  },
+  {
+    "index": 432,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        8.21667,
+        11.85
+      ]
+    },
+    "id": 12220,
+    "mass": 13400,
+    "name": "Kabo",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 11.85,
+    "reclong": 8.21667,
+    "year": "1971"
+  },
+  {
+    "index": 41,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        105.18333,
+        25.15
+      ]
+    },
+    "id": 2305,
+    "mass": 2500,
+    "name": "Anlong",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 25.15,
+    "reclong": 105.18333,
+    "year": "1971"
+  },
+  {
+    "index": 708,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.52722,
+        45.29167
+      ]
+    },
+    "id": 17930,
+    "mass": 177,
+    "name": "Noventa Vicentina",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 45.29167,
+    "reclong": 11.52722,
+    "year": "1971"
+  },
+  {
+    "index": 370,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        22.06194,
+        60.24556
+      ]
+    },
+    "id": 11859,
+    "mass": 1544,
+    "name": "Haverö",
+    "nametype": "Valid",
+    "recclass": "Ureilite",
+    "reclat": 60.24556,
+    "reclong": 22.06194,
+    "year": "1971"
+  },
+  {
+    "index": 916,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        125.66667,
+        43.5
+      ]
+    },
+    "id": 23582,
+    "mass": 3900,
+    "name": "Shuangyang",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 43.5,
+    "reclong": 125.66667,
+    "year": "1971"
+  },
+  {
+    "index": 590,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -49.93333,
+        -22.25
+      ]
+    },
+    "id": 15422,
+    "mass": 2500,
+    "name": "Marilia",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": -22.25,
+    "reclong": -49.93333,
+    "year": "1971"
+  },
+  {
+    "index": 401,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -54.5,
+        -25.5
+      ]
+    },
+    "id": 12043,
+    "mass": 7000,
+    "name": "Ipiranga",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": -25.5,
+    "reclong": -54.5,
+    "year": "1972"
+  },
+  {
+    "index": 350,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -0.68333,
+        13.5
+      ]
+    },
+    "id": 11442,
+    "mass": 288,
+    "name": "Guibga",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 13.5,
+    "reclong": -0.68333,
+    "year": "1972"
+  },
+  {
+    "index": 877,
+    ":@computed_region_cbhk_fwbd": 8,
+    ":@computed_region_nnqa_25f4": 1174,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -117.6625,
+        33.48472
+      ]
+    },
+    "id": 23128,
+    "mass": 56,
+    "name": "San Juan Capistrano",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 33.48472,
+    "reclong": -117.6625,
+    "year": "1973"
+  },
+  {
+    "index": 681,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": null,
+    "id": 16923,
+    "mass": 1.4,
+    "name": "Natal",
+    "nametype": "Valid",
+    "recclass": "Stone-uncl",
+    "reclat": null,
+    "reclong": null,
+    "year": "1973"
+  },
+  {
+    "index": 166,
+    ":@computed_region_cbhk_fwbd": 9,
+    ":@computed_region_nnqa_25f4": 1448,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -105.24139,
+        38.47028
+      ]
+    },
+    "id": 5253,
+    "mass": 1400,
+    "name": "Canon City",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 38.47028,
+    "reclong": -105.24139,
+    "year": "1973"
+  },
+  {
+    "index": 540,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        26.18333,
+        -26.15
+      ]
+    },
+    "id": 14646,
+    "mass": 4000,
+    "name": "Lichtenberg",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": -26.15,
+    "reclong": 26.18333,
+    "year": "1973"
+  },
+  {
+    "index": 282,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        109.5,
+        30.3
+      ]
+    },
+    "id": 10038,
+    "mass": 8000,
+    "name": "Enshi",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 30.3,
+    "reclong": 109.5,
+    "year": "1974"
+  },
+  {
+    "index": 10,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -9.57028,
+        16.39806
+      ]
+    },
+    "id": 423,
+    "mass": 1000,
+    "name": "Aioun el Atrouss",
+    "nametype": "Valid",
+    "recclass": "Diogenite-pm",
+    "reclat": 16.39806,
+    "reclong": -9.57028,
+    "year": "1974"
+  },
+  {
+    "index": 335,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        38.08333,
+        48.28333
+      ]
+    },
+    "id": 10949,
+    "mass": 3618,
+    "name": "Gorlovka",
+    "nametype": "Valid",
+    "recclass": "H3.7",
+    "reclat": 48.28333,
+    "reclong": 38.08333,
+    "year": "1974"
+  },
+  {
+    "index": 958,
+    ":@computed_region_cbhk_fwbd": 24,
+    ":@computed_region_nnqa_25f4": 1040,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -73.13333,
+        41.2
+      ]
+    },
+    "id": 23728,
+    "mass": 50,
+    "name": "Stratford",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 41.2,
+    "reclong": -73.13333,
+    "year": "1974"
+  },
+  {
+    "index": 677,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        51.5,
+        33.75
+      ]
+    },
+    "id": 16909,
+    "mass": 2700,
+    "name": "Naragh",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 33.75,
+    "reclong": 51.5,
+    "year": "1974"
+  },
+  {
+    "index": 601,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        12.08333,
+        8.96667
+      ]
+    },
+    "id": 15451,
+    "mass": 4850,
+    "name": "Mayo Belwa",
+    "nametype": "Valid",
+    "recclass": "Aubrite",
+    "reclat": 8.96667,
+    "reclong": 12.08333,
+    "year": "1974"
+  },
+  {
+    "index": 423,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        15.83333,
+        -11.85
+      ]
+    },
+    "id": 12199,
+    "mass": 483,
+    "name": "Jolomba",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": -11.85,
+    "reclong": 15.83333,
+    "year": "1974"
+  },
+  {
+    "index": 698,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        121.48333,
+        29.86667
+      ]
+    },
+    "id": 16980,
+    "mass": 14250,
+    "name": "Ningbo",
+    "nametype": "Valid",
+    "recclass": "Iron, IVA",
+    "reclat": 29.86667,
+    "reclong": 121.48333,
+    "year": "1975"
+  },
+  {
+    "index": 977,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        112.76667,
+        -7.75
+      ]
+    },
+    "id": 23795,
+    "mass": 10500,
+    "name": "Tambakwatu",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -7.75,
+    "reclong": 112.76667,
+    "year": "1975"
+  },
+  {
+    "index": 396,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        145.36667,
+        -6.03333
+      ]
+    },
+    "id": 12004,
+    "mass": 7330,
+    "name": "Ijopega",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": -6.03333,
+    "reclong": 145.36667,
+    "year": "1975"
+  },
+  {
+    "index": 238,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        71.42722,
+        22.37778
+      ]
+    },
+    "id": 6698,
+    "mass": 45000,
+    "name": "Dhajala",
+    "nametype": "Valid",
+    "recclass": "H3.8",
+    "reclat": 22.37778,
+    "reclong": 71.42722,
+    "year": "1976"
+  },
+  {
+    "index": 863,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        29.83333,
+        -1.45
+      ]
+    },
+    "id": 22780,
+    "mass": 465.5,
+    "name": "Ruhobobo",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -1.45,
+    "reclong": 29.83333,
+    "year": "1976"
+  },
+  {
+    "index": 3,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -99.9,
+        16.88333
+      ]
+    },
+    "id": 10,
+    "mass": 1914,
+    "name": "Acapulco",
+    "nametype": "Valid",
+    "recclass": "Acapulcoite",
+    "reclat": 16.88333,
+    "reclong": -99.9,
+    "year": "1976"
+  },
+  {
+    "index": 419,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        126.16667,
+        44.05
+      ]
+    },
+    "id": 12171,
+    "mass": 4000000,
+    "name": "Jilin",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 44.05,
+    "reclong": 126.16667,
+    "year": "1976"
+  },
+  {
+    "index": 256,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        33.91667,
+        -13.66667
+      ]
+    },
+    "id": 7725,
+    "mass": 642,
+    "name": "Dowa",
+    "nametype": "Valid",
+    "recclass": "Stone-uncl",
+    "reclat": -13.66667,
+    "reclong": 33.91667,
+    "year": "1976"
+  },
+  {
+    "index": 262,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        128.25,
+        43.33333
+      ]
+    },
+    "id": 7749,
+    "mass": null,
+    "name": "Dunhua",
+    "nametype": "Valid",
+    "recclass": "Stone-uncl",
+    "reclat": 43.33333,
+    "reclong": 128.25,
+    "year": "1976"
+  },
+  {
+    "index": 428,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        118.8,
+        35.2
+      ]
+    },
+    "id": 12210,
+    "mass": 950,
+    "name": "Junan",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 35.2,
+    "reclong": 118.8,
+    "year": "1976"
+  },
+  {
+    "index": 914,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        120.06667,
+        33.65
+      ]
+    },
+    "id": 23531,
+    "mass": 605,
+    "name": "Sheyang",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 33.65,
+    "reclong": 120.06667,
+    "year": "1976"
+  },
+  {
+    "index": 337,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11,
+        60.66667
+      ]
+    },
+    "id": 11196,
+    "mass": 45.5,
+    "name": "Grefsheim",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 60.66667,
+    "reclong": 11,
+    "year": "1976"
+  },
+  {
+    "index": 821,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        106.46667,
+        26.53333
+      ]
+    },
+    "id": 18908,
+    "mass": 2600,
+    "name": "Qingzhen",
+    "nametype": "Valid",
+    "recclass": "EH3",
+    "reclat": 26.53333,
+    "reclong": 106.46667,
+    "year": "1976"
+  },
+  {
+    "index": 31,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        44.21556,
+        35.27333
+      ]
+    },
+    "id": 2284,
+    "mass": 6000,
+    "name": "Alta'ameem",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": 35.27333,
+    "reclong": 44.21556,
+    "year": "1977"
+  },
+  {
+    "index": 400,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -111.3375,
+        53.415
+      ]
+    },
+    "id": 12039,
+    "mass": 4576,
+    "name": "Innisfree",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 53.415,
+    "reclong": -111.3375,
+    "year": "1977"
+  },
+  {
+    "index": 185,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        111.75,
+        29.08333
+      ]
+    },
+    "id": 5322,
+    "mass": 1810,
+    "name": "Changde",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 29.08333,
+    "reclong": 111.75,
+    "year": "1977"
+  },
+  {
+    "index": 553,
+    ":@computed_region_cbhk_fwbd": 36,
+    ":@computed_region_nnqa_25f4": 1327,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -85.75,
+        38.25
+      ]
+    },
+    "id": 14716,
+    "mass": 1300,
+    "name": "Louisville",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 38.25,
+    "reclong": -85.75,
+    "year": "1977"
+  },
+  {
+    "index": 275,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -97.37,
+        25.37
+      ]
+    },
+    "id": 45977,
+    "mass": 17226,
+    "name": "El Paso de Aguila",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 25.37,
+    "reclong": -97.37,
+    "year": "1977"
+  },
+  {
+    "index": 395,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -51.83333,
+        -23.2
+      ]
+    },
+    "id": 12003,
+    "mass": 1200,
+    "name": "Iguaracu",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": -23.2,
+    "reclong": -51.83333,
+    "year": "1977"
+  },
+  {
+    "index": 314,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        115.9,
+        32.9
+      ]
+    },
+    "id": 10840,
+    "mass": 2500,
+    "name": "Fuyang",
+    "nametype": "Valid",
+    "recclass": "Stone-uncl",
+    "reclat": 32.9,
+    "reclong": 115.9,
+    "year": "1977"
+  },
+  {
+    "index": 509,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        39.3,
+        44.51667
+      ]
+    },
+    "id": 12383,
+    "mass": 23,
+    "name": "Kutais",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 44.51667,
+    "reclong": 39.3,
+    "year": "1977"
+  },
+  {
+    "index": 127,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        115.83333,
+        33.83333
+      ]
+    },
+    "id": 5090,
+    "mass": 7500,
+    "name": "Bo Xian",
+    "nametype": "Valid",
+    "recclass": "LL3.9",
+    "reclat": 33.83333,
+    "reclong": 115.83333,
+    "year": "1977"
+  },
+  {
+    "index": 713,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -102.13333,
+        24.3
+      ]
+    },
+    "id": 17938,
+    "mass": 50000,
+    "name": "Nuevo Mercurio",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 24.3,
+    "reclong": -102.13333,
+    "year": "1978"
+  },
+  {
+    "index": 544,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        118.98333,
+        31.63333
+      ]
+    },
+    "id": 14659,
+    "mass": 498,
+    "name": "Lishui",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 31.63333,
+    "reclong": 118.98333,
+    "year": "1978"
+  },
+  {
+    "index": 205,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        0.97667,
+        47.47083
+      ]
+    },
+    "id": 5357,
+    "mass": 4000,
+    "name": "Chitenay",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 47.47083,
+    "reclong": 0.97667,
+    "year": "1978"
+  },
+  {
+    "index": 206,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        108.1,
+        -6.95
+      ]
+    },
+    "id": 5364,
+    "mass": 1600,
+    "name": "Cilimus",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": -6.95,
+    "reclong": 108.1,
+    "year": "1979"
+  },
+  {
+    "index": 412,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        105.8,
+        39.7
+      ]
+    },
+    "id": 12074,
+    "mass": 20500,
+    "name": "Jartai",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 39.7,
+    "reclong": 105.8,
+    "year": "1979"
+  },
+  {
+    "index": 436,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        48.3,
+        15
+      ]
+    },
+    "id": 12228,
+    "mass": 2000,
+    "name": "Kaidun",
+    "nametype": "Valid",
+    "recclass": "CR2",
+    "reclat": 15,
+    "reclong": 48.3,
+    "year": "1980"
+  },
+  {
+    "index": 347,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        118.4,
+        37.1
+      ]
+    },
+    "id": 11437,
+    "mass": 1900,
+    "name": "Guangrao",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 37.1,
+    "reclong": 118.4,
+    "year": "1980"
+  },
+  {
+    "index": 853,
+    ":@computed_region_cbhk_fwbd": 23,
+    ":@computed_region_nnqa_25f4": 2885,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -99.03333,
+        31.25
+      ]
+    },
+    "id": 22602,
+    "mass": 1900,
+    "name": "Richland Springs",
+    "nametype": "Valid",
+    "recclass": "OC",
+    "reclat": 31.25,
+    "reclong": -99.03333,
+    "year": "1980"
+  },
+  {
+    "index": 618,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        111.7,
+        34.8
+      ]
+    },
+    "id": 16631,
+    "mass": 1100,
+    "name": "Mianchi",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 34.8,
+    "reclong": 111.7,
+    "year": "1980"
+  },
+  {
+    "index": 558,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        103.3,
+        24.8
+      ]
+    },
+    "id": 14754,
+    "mass": 2520,
+    "name": "Lunan",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 24.8,
+    "reclong": 103.3,
+    "year": "1980"
+  },
+  {
+    "index": 222,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        8.83333,
+        35.61667
+      ]
+    },
+    "id": 5504,
+    "mass": 18000,
+    "name": "Dahmani",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 35.61667,
+    "reclong": 8.83333,
+    "year": "1981"
+  },
+  {
+    "index": 16,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        42.81667,
+        39.91667
+      ]
+    },
+    "id": 433,
+    "mass": 50000,
+    "name": "Akyumak",
+    "nametype": "Valid",
+    "recclass": "Iron, IVA",
+    "reclat": 39.91667,
+    "reclong": 42.81667,
+    "year": "1981"
+  },
+  {
+    "index": 733,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        161.80833,
+        64.02
+      ]
+    },
+    "id": 18019,
+    "mass": 250000,
+    "name": "Omolon",
+    "nametype": "Valid",
+    "recclass": "Pallasite, PMG",
+    "reclat": 64.02,
+    "reclong": 161.80833,
+    "year": "1981"
+  },
+  {
+    "index": 201,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        101.63333,
+        17.9
+      ]
+    },
+    "id": 5345,
+    "mass": 367,
+    "name": "Chiang Khan",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 17.9,
+    "reclong": 101.63333,
+    "year": "1981"
+  },
+  {
+    "index": 873,
+    ":@computed_region_cbhk_fwbd": 12,
+    ":@computed_region_nnqa_25f4": 2409,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -122.96944,
+        44.97917
+      ]
+    },
+    "id": 23107,
+    "mass": 61.4,
+    "name": "Salem",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 44.97917,
+    "reclong": -122.96944,
+    "year": "1981"
+  },
+  {
+    "index": 565,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        35.24222,
+        -15.21222
+      ]
+    },
+    "id": 15371,
+    "mass": 93200,
+    "name": "Machinga",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -15.21222,
+    "reclong": 35.24222,
+    "year": "1981"
+  },
+  {
+    "index": 356,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        42.41667,
+        9.36667
+      ]
+    },
+    "id": 11465,
+    "mass": 34650,
+    "name": "Gursum",
+    "nametype": "Valid",
+    "recclass": "H4/5",
+    "reclat": 9.36667,
+    "reclong": 42.41667,
+    "year": "1981"
+  },
+  {
+    "index": 352,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        76.05,
+        22.98333
+      ]
+    },
+    "id": 11448,
+    "mass": 2449,
+    "name": "Gujargaon",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 22.98333,
+    "reclong": 76.05,
+    "year": "1982"
+  },
+  {
+    "index": 820,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        121.5,
+        32.08333
+      ]
+    },
+    "id": 18907,
+    "mass": 1275,
+    "name": "Qidong",
+    "nametype": "Valid",
+    "recclass": "L/LL5",
+    "reclat": 32.08333,
+    "reclong": 121.5,
+    "year": "1982"
+  },
+  {
+    "index": 699,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        105.90667,
+        32.925
+      ]
+    },
+    "id": 16981,
+    "mass": 4610,
+    "name": "Ningqiang",
+    "nametype": "Valid",
+    "recclass": "C3-ung",
+    "reclat": 32.925,
+    "reclong": 105.90667,
+    "year": "1983"
+  },
+  {
+    "index": 477,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        28,
+        14
+      ]
+    },
+    "id": 12300,
+    "mass": 100000,
+    "name": "Kidairat",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 14,
+    "reclong": 28,
+    "year": "1983"
+  },
+  {
+    "index": 595,
+    ":@computed_region_cbhk_fwbd": 39,
+    ":@computed_region_nnqa_25f4": 2740,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -84.1,
+        35.8
+      ]
+    },
+    "id": 15436,
+    "mass": 1443,
+    "name": "Maryville",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 35.8,
+    "reclong": -84.1,
+    "year": "1983"
+  },
+  {
+    "index": 829,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        70.2,
+        28.225
+      ]
+    },
+    "id": 31302,
+    "mass": 67225,
+    "name": "Rahimyar Khan",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 28.225,
+    "reclong": 70.2,
+    "year": "1983"
+  },
+  {
+    "index": 346,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        105,
+        24.1
+      ]
+    },
+    "id": 11436,
+    "mass": null,
+    "name": "Guangnan",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 24.1,
+    "reclong": 105,
+    "year": "1983"
+  },
+  {
+    "index": 42,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        140.78556,
+        40.81056
+      ]
+    },
+    "id": 2313,
+    "mass": 320,
+    "name": "Aomori",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 40.81056,
+    "reclong": 140.78556,
+    "year": "1984"
+  },
+  {
+    "index": 323,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.03333,
+        12.85
+      ]
+    },
+    "id": 44882,
+    "mass": 4162,
+    "name": "Gashua",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 12.85,
+    "reclong": 11.03333,
+    "year": "1984"
+  },
+  {
+    "index": 116,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        115.67639,
+        -33.15639
+      ]
+    },
+    "id": 5051,
+    "mass": 488.1,
+    "name": "Binningup",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": -33.15639,
+    "reclong": 115.67639,
+    "year": "1984"
+  },
+  {
+    "index": 675,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        121.8,
+        32.11667
+      ]
+    },
+    "id": 16907,
+    "mass": 529,
+    "name": "Nantong",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 32.11667,
+    "reclong": 121.8,
+    "year": "1984"
+  },
+  {
+    "index": 207,
+    ":@computed_region_cbhk_fwbd": 31,
+    ":@computed_region_nnqa_25f4": 67,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -81.87278,
+        32.1025
+      ]
+    },
+    "id": 5374,
+    "mass": 1455,
+    "name": "Claxton",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 32.1025,
+    "reclong": -81.87278,
+    "year": "1984"
+  },
+  {
+    "index": 427,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        111.2,
+        -7.71667
+      ]
+    },
+    "id": 12209,
+    "mass": 32490,
+    "name": "Jumapalo",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -7.71667,
+    "reclong": 111.2,
+    "year": "1984"
+  },
+  {
+    "index": 353,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.65833,
+        11.49167
+      ]
+    },
+    "id": 11449,
+    "mass": 100000,
+    "name": "Gujba",
+    "nametype": "Valid",
+    "recclass": "CBa",
+    "reclat": 11.49167,
+    "reclong": 11.65833,
+    "year": "1984"
+  },
+  {
+    "index": 516,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -58.16667,
+        -31.23333
+      ]
+    },
+    "id": 12396,
+    "mass": 45000,
+    "name": "La Criolla",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -31.23333,
+    "reclong": -58.16667,
+    "year": "1985"
+  },
+  {
+    "index": 875,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.05,
+        52.75
+      ]
+    },
+    "id": 23114,
+    "mass": 43,
+    "name": "Salzwedel",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": 52.75,
+    "reclong": 11.05,
+    "year": "1985"
+  },
+  {
+    "index": 526,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        126.19611,
+        46.24167
+      ]
+    },
+    "id": 12464,
+    "mass": 1282,
+    "name": "Lanxi",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 46.24167,
+    "reclong": 126.19611,
+    "year": "1986"
+  },
+  {
+    "index": 990,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        118.99,
+        32.94667
+      ]
+    },
+    "id": 23984,
+    "mass": 2232,
+    "name": "Tianzhang",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 32.94667,
+    "reclong": 118.99,
+    "year": "1986"
+  },
+  {
+    "index": 743,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -6.57717,
+        30.18
+      ]
+    },
+    "id": 18050,
+    "mass": 1215.5,
+    "name": "Oued el Hadjar",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 30.18,
+    "reclong": -6.57717,
+    "year": "1986"
+  },
+  {
+    "index": 890,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        139.4,
+        35.86667
+      ]
+    },
+    "id": 23192,
+    "mass": 430,
+    "name": "Sayama",
+    "nametype": "Valid",
+    "recclass": "CM2",
+    "reclat": 35.86667,
+    "reclong": 139.4,
+    "year": "1986"
+  },
+  {
+    "index": 828,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        76.465,
+        27.72528
+      ]
+    },
+    "id": 22371,
+    "mass": 10200,
+    "name": "Raghunathpura",
+    "nametype": "Valid",
+    "recclass": "Iron, IIAB",
+    "reclat": 27.72528,
+    "reclong": 76.465,
+    "year": "1986"
+  },
+  {
+    "index": 964,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        113.46667,
+        31.61667
+      ]
+    },
+    "id": 23738,
+    "mass": 260000,
+    "name": "Suizhou",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 31.61667,
+    "reclong": 113.46667,
+    "year": "1986"
+  },
+  {
+    "index": 492,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        133.95,
+        34.3
+      ]
+    },
+    "id": 12342,
+    "mass": 11510,
+    "name": "Kokubunji",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 34.3,
+    "reclong": 133.95,
+    "year": "1986"
+  },
+  {
+    "index": 528,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        115.16667,
+        33.13333
+      ]
+    },
+    "id": 12466,
+    "mass": 14250,
+    "name": "Laochenzhen",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 33.13333,
+    "reclong": 115.16667,
+    "year": "1987"
+  },
+  {
+    "index": 203,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        33.395,
+        -10.05944
+      ]
+    },
+    "id": 5355,
+    "mass": 3920,
+    "name": "Chisenga",
+    "nametype": "Valid",
+    "recclass": "Iron, IIIAB",
+    "reclat": -10.05944,
+    "reclong": 33.395,
+    "year": "1988"
+  },
+  {
+    "index": 193,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        32.5,
+        -3.66667
+      ]
+    },
+    "id": 5338,
+    "mass": 2936,
+    "name": "Chela",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": -3.66667,
+    "reclong": 32.5,
+    "year": "1988"
+  },
+  {
+    "index": 753,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -65.1,
+        -23.11667
+      ]
+    },
+    "id": 18074,
+    "mass": 1430,
+    "name": "Palca de Aparzo",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": -23.11667,
+    "reclong": -65.1,
+    "year": "1988"
+  },
+  {
+    "index": 176,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -105.23333,
+        26.46667
+      ]
+    },
+    "id": 5306,
+    "mass": 1025,
+    "name": "Ceniceros",
+    "nametype": "Valid",
+    "recclass": "L3.7",
+    "reclat": 26.46667,
+    "reclong": -105.23333,
+    "year": "1988"
+  },
+  {
+    "index": 274,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        3.25,
+        34.41667
+      ]
+    },
+    "id": 7807,
+    "mass": 10000,
+    "name": "El Idrissia",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 34.41667,
+    "reclong": 3.25,
+    "year": "1989"
+  },
+  {
+    "index": 930,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        119.86667,
+        32.43333
+      ]
+    },
+    "id": 23619,
+    "mass": 630,
+    "name": "Sixiangkou",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 32.43333,
+    "reclong": 119.86667,
+    "year": "1989"
+  },
+  {
+    "index": 929,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        36.13583,
+        39.82467
+      ]
+    },
+    "id": 23617,
+    "mass": 40000,
+    "name": "Sivas",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 39.82467,
+    "reclong": 36.13583,
+    "year": "1989"
+  },
+  {
+    "index": 909,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        10.71667,
+        34.75
+      ]
+    },
+    "id": 23512,
+    "mass": 7000,
+    "name": "Sfax",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 34.75,
+    "reclong": 10.71667,
+    "year": "1989"
+  },
+  {
+    "index": 87,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -0.18333,
+        11.08333
+      ]
+    },
+    "id": 4976,
+    "mass": 1557,
+    "name": "Bawku",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": 11.08333,
+    "reclong": -0.18333,
+    "year": "1989"
+  },
+  {
+    "index": 775,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -3.54217,
+        11.33367
+      ]
+    },
+    "id": 18179,
+    "mass": null,
+    "name": "Pê",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 11.33367,
+    "reclong": -3.54217,
+    "year": "1989"
+  },
+  {
+    "index": 329,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        6.86667,
+        52.2
+      ]
+    },
+    "id": 10923,
+    "mass": 670,
+    "name": "Glanerbrug",
+    "nametype": "Valid",
+    "recclass": "L/LL5",
+    "reclat": 52.2,
+    "reclong": 6.86667,
+    "year": "1990"
+  },
+  {
+    "index": 405,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -12.95217,
+        26.59083
+      ]
+    },
+    "id": 12058,
+    "mass": 4720,
+    "name": "Itqiy",
+    "nametype": "Valid",
+    "recclass": "EH7-an",
+    "reclat": 26.59083,
+    "reclong": -12.95217,
+    "year": "1990"
+  },
+  {
+    "index": 409,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": null,
+    "id": 12068,
+    "mass": 700,
+    "name": "Jalanash",
+    "nametype": "Valid",
+    "recclass": "Ureilite",
+    "reclat": null,
+    "reclong": null,
+    "year": "1990"
+  },
+  {
+    "index": 956,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        55.98333,
+        53.66667
+      ]
+    },
+    "id": 23724,
+    "mass": 325000,
+    "name": "Sterlitamak",
+    "nametype": "Valid",
+    "recclass": "Iron, IIIAB",
+    "reclat": 53.66667,
+    "reclong": 55.98333,
+    "year": "1990"
+  },
+  {
+    "index": 825,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        126.13333,
+        44.61667
+      ]
+    },
+    "id": 22361,
+    "mass": 17450,
+    "name": "Quija",
+    "nametype": "Valid",
+    "recclass": "H",
+    "reclat": 44.61667,
+    "reclong": 126.13333,
+    "year": "1990"
+  },
+  {
+    "index": 572,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        31.65,
+        -19.48333
+      ]
+    },
+    "id": 15387,
+    "mass": 666.6,
+    "name": "Magombedze",
+    "nametype": "Valid",
+    "recclass": "H3-5",
+    "reclat": -19.48333,
+    "reclong": 31.65,
+    "year": "1990"
+  },
+  {
+    "index": 151,
+    ":@computed_region_cbhk_fwbd": 36,
+    ":@computed_region_nnqa_25f4": 256,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -82.23722,
+        37.62194
+      ]
+    },
+    "id": 5175,
+    "mass": 1504,
+    "name": "Burnwell",
+    "nametype": "Valid",
+    "recclass": "H4-an",
+    "reclat": 37.62194,
+    "reclong": -82.23722,
+    "year": "1990"
+  },
+  {
+    "index": 332,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -0.3,
+        52.45972
+      ]
+    },
+    "id": 10930,
+    "mass": 767,
+    "name": "Glatton",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 52.45972,
+    "reclong": -0.3,
+    "year": "1991"
+  },
+  {
+    "index": 162,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -40.16667,
+        -7.03333
+      ]
+    },
+    "id": 5249,
+    "mass": 23680,
+    "name": "Campos Sales",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": -7.03333,
+    "reclong": -40.16667,
+    "year": "1991"
+  },
+  {
+    "index": 703,
+    ":@computed_region_cbhk_fwbd": 35,
+    ":@computed_region_nnqa_25f4": 2238,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.055,
+        40.08528
+      ]
+    },
+    "id": 16985,
+    "mass": 483.7,
+    "name": "Noblesville",
+    "nametype": "Valid",
+    "recclass": "H4-6",
+    "reclat": 40.08528,
+    "reclong": -86.055,
+    "year": "1991"
+  },
+  {
+    "index": 656,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        4.8,
+        18.7
+      ]
+    },
+    "id": 16804,
+    "mass": 110000,
+    "name": "Mount Tazerzait",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 18.7,
+    "reclong": 4.8,
+    "year": "1991"
+  },
+  {
+    "index": 974,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        137.305,
+        34.72
+      ]
+    },
+    "id": 23784,
+    "mass": 1000,
+    "name": "Tahara",
+    "nametype": "Valid",
+    "recclass": "H4/5",
+    "reclat": 34.72,
+    "reclong": 137.305,
+    "year": "1991"
+  },
+  {
+    "index": 622,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        133.22,
+        35.56833
+      ]
+    },
+    "id": 16635,
+    "mass": 6380,
+    "name": "Mihonoseki",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 35.56833,
+    "reclong": 133.22,
+    "year": "1992"
+  },
+  {
+    "index": 778,
+    ":@computed_region_cbhk_fwbd": 47,
+    ":@computed_region_nnqa_25f4": 2185,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -73.91667,
+        41.28333
+      ]
+    },
+    "id": 18782,
+    "mass": 12570,
+    "name": "Peekskill",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 41.28333,
+    "reclong": -73.91667,
+    "year": "1992"
+  },
+  {
+    "index": 604,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        34.16667,
+        1.06667
+      ]
+    },
+    "id": 15455,
+    "mass": 150000,
+    "name": "Mbale",
+    "nametype": "Valid",
+    "recclass": "L5/6",
+    "reclat": 1.06667,
+    "reclong": 34.16667,
+    "year": "1992"
+  },
+  {
+    "index": 939,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        125,
+        45.25
+      ]
+    },
+    "id": 23668,
+    "mass": 36900,
+    "name": "Songyuan",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 45.25,
+    "reclong": 125,
+    "year": "1993"
+  },
+  {
+    "index": 902,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        140.51167,
+        39.43833
+      ]
+    },
+    "id": 23496,
+    "mass": 866,
+    "name": "Senboku",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 39.43833,
+    "reclong": 140.51167,
+    "year": "1993"
+  },
+  {
+    "index": 70,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        101.18333,
+        16.66667
+      ]
+    },
+    "id": 4934,
+    "mass": 16700,
+    "name": "Ban Rong Du",
+    "nametype": "Valid",
+    "recclass": "Iron, ungrouped",
+    "reclat": 16.66667,
+    "reclong": 101.18333,
+    "year": "1993"
+  },
+  {
+    "index": 276,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -103.05167,
+        19.96722
+      ]
+    },
+    "id": 7819,
+    "mass": 5000,
+    "name": "El Tigre",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 19.96722,
+    "reclong": -103.05167,
+    "year": "1993"
+  },
+  {
+    "index": 83,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        20.93583,
+        52.03333
+      ]
+    },
+    "id": 4957,
+    "mass": 15500,
+    "name": "Baszkówka",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 52.03333,
+    "reclong": 20.93583,
+    "year": "1994"
+  },
+  {
+    "index": 549,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        72.62667,
+        26.96556
+      ]
+    },
+    "id": 14678,
+    "mass": 40000,
+    "name": "Lohawat",
+    "nametype": "Valid",
+    "recclass": "Howardite",
+    "reclat": 26.96556,
+    "reclong": 72.62667,
+    "year": "1994"
+  },
+  {
+    "index": 689,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        35.68333,
+        15.36667
+      ]
+    },
+    "id": 16954,
+    "mass": 12000,
+    "name": "New Halfa",
+    "nametype": "Valid",
+    "recclass": "L4",
+    "reclat": 15.36667,
+    "reclong": 35.68333,
+    "year": "1994"
+  },
+  {
+    "index": 237,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        76.525,
+        24.225
+      ]
+    },
+    "id": 6696,
+    "mass": 1140,
+    "name": "Devri-Khera",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 24.225,
+    "reclong": 76.525,
+    "year": "1994"
+  },
+  {
+    "index": 961,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -72.97806,
+        45.96861
+      ]
+    },
+    "id": 23733,
+    "mass": 25400,
+    "name": "St-Robert",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 45.96861,
+    "reclong": -72.97806,
+    "year": "1994"
+  },
+  {
+    "index": 211,
+    ":@computed_region_cbhk_fwbd": 50,
+    ":@computed_region_nnqa_25f4": 356,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -84.50778,
+        43.76111
+      ]
+    },
+    "id": 5401,
+    "mass": 469,
+    "name": "Coleman",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 43.76111,
+    "reclong": -84.50778,
+    "year": "1994"
+  },
+  {
+    "index": 921,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -101.38333,
+        20.93333
+      ]
+    },
+    "id": 23594,
+    "mass": 1710,
+    "name": "Silao",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 20.93333,
+    "reclong": -101.38333,
+    "year": "1995"
+  },
+  {
+    "index": 976,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": null,
+    "id": 23791,
+    "mass": 1421,
+    "name": "Talampaya",
+    "nametype": "Valid",
+    "recclass": "Eucrite-cm",
+    "reclat": null,
+    "reclong": null,
+    "year": "1995"
+  },
+  {
+    "index": 683,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        136.46528,
+        36.44917
+      ]
+    },
+    "id": 16934,
+    "mass": 420,
+    "name": "Neagari",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 36.44917,
+    "reclong": 136.46528,
+    "year": "1995"
+  },
+  {
+    "index": 318,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        30.78333,
+        51.68333
+      ]
+    },
+    "id": 10850,
+    "mass": 5000,
+    "name": "Galkiv",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 51.68333,
+    "reclong": 30.78333,
+    "year": "1995"
+  },
+  {
+    "index": 785,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        0.42,
+        14.052
+      ]
+    },
+    "id": 18800,
+    "mass": 189,
+    "name": "Pétèlkolé",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 14.052,
+    "reclong": 0.42,
+    "year": "1995"
+  },
+  {
+    "index": 250,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        119.03333,
+        45.5
+      ]
+    },
+    "id": 7706,
+    "mass": 128800,
+    "name": "Dong Ujimqin Qi",
+    "nametype": "Valid",
+    "recclass": "Mesosiderite",
+    "reclat": 45.5,
+    "reclong": 119.03333,
+    "year": "1995"
+  },
+  {
+    "index": 300,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        13.75333,
+        43.18111
+      ]
+    },
+    "id": 10091,
+    "mass": 10200,
+    "name": "Fermo",
+    "nametype": "Valid",
+    "recclass": "H3-5",
+    "reclat": 43.18111,
+    "reclong": 13.75333,
+    "year": "1996"
+  },
+  {
+    "index": 345,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        122.76389,
+        39.80417
+      ]
+    },
+    "id": 11435,
+    "mass": 2910,
+    "name": "Guangmingshan",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 39.80417,
+    "reclong": 122.76389,
+    "year": "1996"
+  },
+  {
+    "index": 795,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        73.94167,
+        26.03472
+      ]
+    },
+    "id": 18831,
+    "mass": 42000,
+    "name": "Piplia Kalan",
+    "nametype": "Valid",
+    "recclass": "Eucrite-mmict",
+    "reclat": 26.03472,
+    "reclong": 73.94167,
+    "year": "1996"
+  },
+  {
+    "index": 425,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        115.41667,
+        35.5
+      ]
+    },
+    "id": 12203,
+    "mass": 100000,
+    "name": "Juancheng",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 35.5,
+    "reclong": 115.41667,
+    "year": "1997"
+  },
+  {
+    "index": 506,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        59.2,
+        42.25
+      ]
+    },
+    "id": 12379,
+    "mass": 1100000,
+    "name": "Kunya-Urgench",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 42.25,
+    "reclong": 59.2,
+    "year": "1998"
+  },
+  {
+    "index": 227,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        59.685,
+        41.98444
+      ]
+    },
+    "id": 6604,
+    "mass": 7000,
+    "name": "Dashoguz",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 41.98444,
+    "reclong": 59.685,
+    "year": "1998"
+  },
+  {
+    "index": 809,
+    ":@computed_region_cbhk_fwbd": 11,
+    ":@computed_region_nnqa_25f4": 1987,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -103.295,
+        34.175
+      ]
+    },
+    "id": 18874,
+    "mass": 71400,
+    "name": "Portales Valley",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 34.175,
+    "reclong": -103.295,
+    "year": "1998"
+  },
+  {
+    "index": 488,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -80.38333,
+        43.38333
+      ]
+    },
+    "id": 12326,
+    "mass": 202.6,
+    "name": "Kitchener",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 43.38333,
+    "reclong": -80.38333,
+    "year": "1998"
+  },
+  {
+    "index": 179,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        109.31667,
+        28.53333
+      ]
+    },
+    "id": 5313,
+    "mass": 3700,
+    "name": "Chadong",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 28.53333,
+    "reclong": 109.31667,
+    "year": "1998"
+  },
+  {
+    "index": 277,
+    ":@computed_region_cbhk_fwbd": 9,
+    ":@computed_region_nnqa_25f4": 88,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -104.58817,
+        39.24667
+      ]
+    },
+    "id": 7822,
+    "mass": 680.5,
+    "name": "Elbert",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 39.24667,
+    "reclong": -104.58817,
+    "year": "1998"
+  },
+  {
+    "index": 745,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -8.28,
+        37.60833
+      ]
+    },
+    "id": 18052,
+    "mass": 20000,
+    "name": "Ourique",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 37.60833,
+    "reclong": -8.28,
+    "year": "1998"
+  },
+  {
+    "index": 639,
+    ":@computed_region_cbhk_fwbd": 23,
+    ":@computed_region_nnqa_25f4": 2957,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -102.85833,
+        31.60833
+      ]
+    },
+    "id": 16719,
+    "mass": 2587,
+    "name": "Monahans (1998)",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 31.60833,
+    "reclong": -102.85833,
+    "year": "1998"
+  },
+  {
+    "index": 535,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -6.96667,
+        52.66667
+      ]
+    },
+    "id": 12759,
+    "mass": 271.4,
+    "name": "Leighlinbridge",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 52.66667,
+    "reclong": -6.96667,
+    "year": "1999"
+  },
+  {
+    "index": 459,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        10.08333,
+        11.33333
+      ]
+    },
+    "id": 35465,
+    "mass": 1500,
+    "name": "Katagum",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 11.33333,
+    "reclong": 10.08333,
+    "year": "1999"
+  },
+  {
+    "index": 491,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        135.16667,
+        34.73333
+      ]
+    },
+    "id": 12336,
+    "mass": 136,
+    "name": "Kobe",
+    "nametype": "Valid",
+    "recclass": "CK4",
+    "reclat": 34.73333,
+    "reclong": 135.16667,
+    "year": "1999"
+  },
+  {
+    "index": 260,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        152.83333,
+        -31.66667
+      ]
+    },
+    "id": 7743,
+    "mass": 30,
+    "name": "Dunbogan",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -31.66667,
+    "reclong": 152.83333,
+    "year": "1999"
+  },
+  {
+    "index": 868,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        91.66667,
+        23.08333
+      ]
+    },
+    "id": 22793,
+    "mass": 478,
+    "name": "Sabrum",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 23.08333,
+    "reclong": 91.66667,
+    "year": "1999"
+  },
+  {
+    "index": 115,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -0.08333,
+        12.45
+      ]
+    },
+    "id": 5045,
+    "mass": 25000,
+    "name": "Bilanga",
+    "nametype": "Valid",
+    "recclass": "Diogenite",
+    "reclat": 12.45,
+    "reclong": -0.08333,
+    "year": "1999"
+  },
+  {
+    "index": 246,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        9.55,
+        36.95
+      ]
+    },
+    "id": 7657,
+    "mass": 10000,
+    "name": "Djoumine",
+    "nametype": "Valid",
+    "recclass": "H5-6",
+    "reclat": 36.95,
+    "reclong": 9.55,
+    "year": "1999"
+  },
+  {
+    "index": 650,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        18.53333,
+        49.6
+      ]
+    },
+    "id": 16742,
+    "mass": 633,
+    "name": "Morávka",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 49.6,
+    "reclong": 18.53333,
+    "year": "2000"
+  },
+  {
+    "index": 973,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -134.20139,
+        59.70444
+      ]
+    },
+    "id": 23782,
+    "mass": 10000,
+    "name": "Tagish Lake",
+    "nametype": "Valid",
+    "recclass": "C2-ung",
+    "reclat": 59.70444,
+    "reclong": -134.20139,
+    "year": "2000"
+  },
+  {
+    "index": 324,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -2.04167,
+        14.15083
+      ]
+    },
+    "id": 10866,
+    "mass": null,
+    "name": "Gasseltepaoua",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 14.15083,
+    "reclong": -2.04167,
+    "year": "2000"
+  },
+  {
+    "index": 18,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        28.96,
+        13.66033
+      ]
+    },
+    "id": 447,
+    "mass": 700,
+    "name": "Al Zarnkh",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": 13.66033,
+    "reclong": 28.96,
+    "year": "2001"
+  },
+  {
+    "index": 96,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        10.8,
+        32.86667
+      ]
+    },
+    "id": 5018,
+    "mass": 19000,
+    "name": "Beni M'hira",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 32.86667,
+    "reclong": 10.8,
+    "year": "2001"
+  },
+  {
+    "index": 236,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        81,
+        19
+      ]
+    },
+    "id": 6694,
+    "mass": 12000,
+    "name": "Devgaon",
+    "nametype": "Valid",
+    "recclass": "H3.8",
+    "reclat": 19,
+    "reclong": 81,
+    "year": "2001"
+  },
+  {
+    "index": 234,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        93.86667,
+        26.68333
+      ]
+    },
+    "id": 6664,
+    "mass": 12500,
+    "name": "Dergaon",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 26.68333,
+    "reclong": 93.86667,
+    "year": "2001"
+  },
+  {
+    "index": 146,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        64.60035,
+        39.77978
+      ]
+    },
+    "id": 30448,
+    "mass": 5300,
+    "name": "Bukhara",
+    "nametype": "Valid",
+    "recclass": "CV3",
+    "reclat": 39.77978,
+    "reclong": 64.60035,
+    "year": "2001"
+  },
+  {
+    "index": 482,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        9.8,
+        12.76667
+      ]
+    },
+    "id": 12307,
+    "mass": 19000,
+    "name": "Kilabo",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 12.76667,
+    "reclong": 9.8,
+    "year": "2002"
+  },
+  {
+    "index": 757,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Found",
+    "geolocation": null,
+    "id": 32591,
+    "mass": 69.5,
+    "name": "Dominion Range 03239",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": null,
+    "reclong": null,
+    "year": "2002"
+  },
+  {
+    "index": 878,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        13,
+        43.66667
+      ]
+    },
+    "id": 31315,
+    "mass": 237,
+    "name": "San Michele",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 43.66667,
+    "reclong": 13,
+    "year": "2002"
+  },
+  {
+    "index": 22,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        6.01533,
+        45.82133
+      ]
+    },
+    "id": 458,
+    "mass": 252,
+    "name": "Alby sur Chéran",
+    "nametype": "Valid",
+    "recclass": "Eucrite-mmict",
+    "reclat": 45.82133,
+    "reclong": 6.01533,
+    "year": "2002"
+  },
+  {
+    "index": 687,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        10.80833,
+        47.525
+      ]
+    },
+    "id": 16950,
+    "mass": 6189,
+    "name": "Neuschwanstein",
+    "nametype": "Valid",
+    "recclass": "EL6",
+    "reclat": 47.525,
+    "reclong": 10.80833,
+    "year": "2002"
+  },
+  {
+    "index": 109,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        73.11528,
+        26.50833
+      ]
+    },
+    "id": 36591,
+    "mass": 678,
+    "name": "Bhawad",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 26.50833,
+    "reclong": 73.11528,
+    "year": "2002"
+  },
+  {
+    "index": 99,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -7,
+        30
+      ]
+    },
+    "id": 5024,
+    "mass": 45000,
+    "name": "Bensour",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 30,
+    "reclong": -7,
+    "year": "2002"
+  },
+  {
+    "index": 989,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        27.58333,
+        -29.33333
+      ]
+    },
+    "id": 23976,
+    "mass": 45300,
+    "name": "Thuathe",
+    "nametype": "Valid",
+    "recclass": "H4/5",
+    "reclat": -29.33333,
+    "reclong": 27.58333,
+    "year": "2002"
+  },
+  {
+    "index": 594,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        48.1,
+        -14.2
+      ]
+    },
+    "id": 15430,
+    "mass": 6000,
+    "name": "Maromandia",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -14.2,
+    "reclong": 48.1,
+    "year": "2002"
+  },
+  {
+    "index": 804,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Found",
+    "geolocation": null,
+    "id": 32592,
+    "mass": 290.9,
+    "name": "Dominion Range 03240",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": null,
+    "reclong": null,
+    "year": "2002"
+  },
+  {
+    "index": 465,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        86.70278,
+        20.4625
+      ]
+    },
+    "id": 12276,
+    "mass": 6669.2,
+    "name": "Kendrapara",
+    "nametype": "Valid",
+    "recclass": "H4-5",
+    "reclat": 20.4625,
+    "reclong": 86.70278,
+    "year": "2003"
+  },
+  {
+    "index": 137,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -11.3715,
+        17.71067
+      ]
+    },
+    "id": 57168,
+    "mass": 190,
+    "name": "Boumdeid (2003)",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 17.71067,
+    "reclong": -11.3715,
+    "year": "2003"
+  },
+  {
+    "index": 377,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        132.38333,
+        34.45
+      ]
+    },
+    "id": 11889,
+    "mass": 414,
+    "name": "Hiroshima",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 34.45,
+    "reclong": 132.38333,
+    "year": "2003"
+  },
+  {
+    "index": 378,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        31.47278,
+        1.345
+      ]
+    },
+    "id": 44714,
+    "mass": 167.7,
+    "name": "Hoima",
+    "nametype": "Valid",
+    "recclass": "H6",
+    "reclat": 1.345,
+    "reclong": 31.47278,
+    "year": "2003"
+  },
+  {
+    "index": 763,
+    ":@computed_region_cbhk_fwbd": 34,
+    ":@computed_region_nnqa_25f4": 1863,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -87.67917,
+        41.48472
+      ]
+    },
+    "id": 18106,
+    "mass": 18000,
+    "name": "Park Forest",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 41.48472,
+    "reclong": -87.67917,
+    "year": "2003"
+  },
+  {
+    "index": 742,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        0.08,
+        12.9
+      ]
+    },
+    "id": 56729,
+    "mass": 4440,
+    "name": "Ouadangou",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 12.9,
+    "reclong": 0.08,
+    "year": "2003"
+  },
+  {
+    "index": 458,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        77.58333,
+        29.58333
+      ]
+    },
+    "id": 30740,
+    "mass": 16820,
+    "name": "Kasauli",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 29.58333,
+    "reclong": 77.58333,
+    "year": "2003"
+  },
+  {
+    "index": 744,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -13.1,
+        24.3
+      ]
+    },
+    "id": 31282,
+    "mass": 17000,
+    "name": "Oum Dreyga",
+    "nametype": "Valid",
+    "recclass": "H3-5",
+    "reclat": 24.3,
+    "reclong": -13.1,
+    "year": "2003"
+  },
+  {
+    "index": 520,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Found",
+    "geolocation": null,
+    "id": 32531,
+    "mass": 9.6,
+    "name": "Cumulus Hills 04075",
+    "nametype": "Valid",
+    "recclass": "Pallasite",
+    "reclat": null,
+    "reclong": null,
+    "year": "2003"
+  },
+  {
+    "index": 690,
+    ":@computed_region_cbhk_fwbd": 22,
+    ":@computed_region_nnqa_25f4": 1667,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -90.10976,
+        29.94718
+      ]
+    },
+    "id": 16960,
+    "mass": 19256,
+    "name": "New Orleans",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 29.94718,
+    "reclong": -90.10976,
+    "year": "2003"
+  },
+  {
+    "index": 574,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        9.38333,
+        12.83333
+      ]
+    },
+    "id": 30751,
+    "mass": 4629,
+    "name": "Maigatari-Danduma",
+    "nametype": "Valid",
+    "recclass": "H5/6",
+    "reclat": 12.83333,
+    "reclong": 9.38333,
+    "year": "2004"
+  },
+  {
+    "index": 104,
+    ":@computed_region_cbhk_fwbd": 9,
+    ":@computed_region_nnqa_25f4": 1072,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -105.02325,
+        40.30583
+      ]
+    },
+    "id": 47355,
+    "mass": 960,
+    "name": "Berthoud",
+    "nametype": "Valid",
+    "recclass": "Eucrite-mmict",
+    "reclat": 40.30583,
+    "reclong": -105.02325,
+    "year": "2004"
+  },
+  {
+    "index": 735,
+    ":@computed_region_cbhk_fwbd": 30,
+    ":@computed_region_nnqa_25f4": 1078,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -81.36222,
+        28.5475
+      ]
+    },
+    "id": 34489,
+    "mass": 180,
+    "name": "Orlando",
+    "nametype": "Valid",
+    "recclass": "Eucrite",
+    "reclat": 28.5475,
+    "reclong": -81.36222,
+    "year": "2004"
+  },
+  {
+    "index": 449,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        73.22329,
+        20.33916
+      ]
+    },
+    "id": 47357,
+    "mass": 1600,
+    "name": "Kaprada",
+    "nametype": "Valid",
+    "recclass": "L5/6",
+    "reclat": 20.33916,
+    "reclong": 73.22329,
+    "year": "2004"
+  },
+  {
+    "index": 95,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -8.15,
+        32.25
+      ]
+    },
+    "id": 30443,
+    "mass": 25000,
+    "name": "Benguerir",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 32.25,
+    "reclong": -8.15,
+    "year": "2004"
+  },
+  {
+    "index": 420,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        70.31333,
+        22.68
+      ]
+    },
+    "id": 47362,
+    "mass": 100,
+    "name": "Jodiya",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 22.68,
+    "reclong": 70.31333,
+    "year": "2006"
+  },
+  {
+    "index": 652,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        10.7,
+        59.43333
+      ]
+    },
+    "id": 36592,
+    "mass": 3763,
+    "name": "Moss",
+    "nametype": "Valid",
+    "recclass": "CO3.6",
+    "reclat": 59.43333,
+    "reclong": 10.7,
+    "year": "2006"
+  },
+  {
+    "index": 82,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -5.9,
+        15.78333
+      ]
+    },
+    "id": 44876,
+    "mass": 29560,
+    "name": "Bassikounou",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 15.78333,
+    "reclong": -5.9,
+    "year": "2006"
+  },
+  {
+    "index": 460,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        75.81333,
+        25.14333
+      ]
+    },
+    "id": 47351,
+    "mass": 6800,
+    "name": "Kavarpura",
+    "nametype": "Valid",
+    "recclass": "Iron, IIE-an",
+    "reclat": 25.14333,
+    "reclong": 75.81333,
+    "year": "2006"
+  },
+  {
+    "index": 195,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -5.01472,
+        23.69639
+      ]
+    },
+    "id": 47347,
+    "mass": 100000,
+    "name": "Chergach ",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 23.69639,
+    "reclong": -5.01472,
+    "year": "2007"
+  },
+  {
+    "index": 148,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        129.19,
+        -31.35
+      ]
+    },
+    "id": 48653,
+    "mass": 324,
+    "name": "Bunburra Rockhole",
+    "nametype": "Valid",
+    "recclass": "Eucrite",
+    "reclat": -31.35,
+    "reclong": 129.19,
+    "year": "2007"
+  },
+  {
+    "index": 169,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -69.04389,
+        -16.66444
+      ]
+    },
+    "id": 45817,
+    "mass": 342,
+    "name": "Carancas",
+    "nametype": "Valid",
+    "recclass": "H4-5",
+    "reclat": -16.66444,
+    "reclong": -69.04389,
+    "year": "2007"
+  },
+  {
+    "index": 573,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        95.78333,
+        27.66667
+      ]
+    },
+    "id": 47361,
+    "mass": 70500,
+    "name": "Mahadevpur",
+    "nametype": "Valid",
+    "recclass": "H4/5",
+    "reclat": 27.66667,
+    "reclong": 95.78333,
+    "year": "2007"
+  },
+  {
+    "index": 160,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -76.51,
+        3.405
+      ]
+    },
+    "id": 45976,
+    "mass": 478,
+    "name": "Cali",
+    "nametype": "Valid",
+    "recclass": "H/L4",
+    "reclat": 3.405,
+    "reclong": -76.51,
+    "year": "2007"
+  },
+  {
+    "index": 815,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -3.51667,
+        39.35
+      ]
+    },
+    "id": 45984,
+    "mass": 500,
+    "name": "Puerto Lápice",
+    "nametype": "Valid",
+    "recclass": "Eucrite-br",
+    "reclat": 39.35,
+    "reclong": -3.51667,
+    "year": "2007"
+  },
+  {
+    "index": 241,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        27.32997,
+        37.35172
+      ]
+    },
+    "id": 47350,
+    "mass": 3396,
+    "name": "Didim",
+    "nametype": "Valid",
+    "recclass": "H3-5",
+    "reclat": 37.35172,
+    "reclong": 27.32997,
+    "year": "2007"
+  },
+  {
+    "index": 841,
+    ":@computed_region_cbhk_fwbd": 8,
+    ":@computed_region_nnqa_25f4": 1391,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -119.75812,
+        38.13742
+      ]
+    },
+    "id": 53502,
+    "mass": 18.41,
+    "name": "Red Canyon Lake",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 38.13742,
+    "reclong": -119.75812,
+    "year": "2007"
+  },
+  {
+    "index": 965,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        78.03333,
+        12.66667
+      ]
+    },
+    "id": 48951,
+    "mass": 110000,
+    "name": "Sulagiri",
+    "nametype": "Valid",
+    "recclass": "LL6",
+    "reclat": 12.66667,
+    "reclong": 78.03333,
+    "year": "2008"
+  },
+  {
+    "index": 156,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -109.84817,
+        52.996
+      ]
+    },
+    "id": 48654,
+    "mass": 41000,
+    "name": "Buzzard Coulee",
+    "nametype": "Valid",
+    "recclass": "H4",
+    "reclat": 52.996,
+    "reclong": -109.84817,
+    "year": "2008"
+  },
+  {
+    "index": 978,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -7.015,
+        31.16333
+      ]
+    },
+    "id": 48691,
+    "mass": 100000,
+    "name": "Tamdakht",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 31.16333,
+    "reclong": -7.015,
+    "year": "2008"
+  },
+  {
+    "index": 463,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        29.41822,
+        36.54194
+      ]
+    },
+    "id": 53654,
+    "mass": 5760,
+    "name": "Kemer",
+    "nametype": "Valid",
+    "recclass": "L4",
+    "reclat": 36.54194,
+    "reclong": 29.41822,
+    "year": "2008"
+  },
+  {
+    "index": 228,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -79.95756,
+        -1.87089
+      ]
+    },
+    "id": 51559,
+    "mass": 6580,
+    "name": "Daule",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": -1.87089,
+    "reclong": -79.95756,
+    "year": "2008"
+  },
+  {
+    "index": 884,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -68.489444,
+        -31.535556
+      ]
+    },
+    "id": 50909,
+    "mass": 4000,
+    "name": "Santa Lucia (2008)",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -31.535556,
+    "reclong": -68.489444,
+    "year": "2008"
+  },
+  {
+    "index": 30,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        32.41275,
+        20.74575
+      ]
+    },
+    "id": 48915,
+    "mass": 3950,
+    "name": "Almahata Sitta",
+    "nametype": "Valid",
+    "recclass": "Ureilite-an",
+    "reclat": 20.74575,
+    "reclong": 32.41275,
+    "year": "2008"
+  },
+  {
+    "index": 101,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -58.32833,
+        -31.91
+      ]
+    },
+    "id": 48975,
+    "mass": 270,
+    "name": "Berduc",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -31.91,
+    "reclong": -58.32833,
+    "year": "2008"
+  },
+  {
+    "index": 801,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        26.70972,
+        45.275
+      ]
+    },
+    "id": 51706,
+    "mass": 6913,
+    "name": "Pleşcoi",
+    "nametype": "Valid",
+    "recclass": "L5-6",
+    "reclat": 45.275,
+    "reclong": 26.70972,
+    "year": "2008"
+  },
+  {
+    "index": 49,
+    ":@computed_region_cbhk_fwbd": 23,
+    ":@computed_region_nnqa_25f4": 774,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -97.01,
+        31.805
+      ]
+    },
+    "id": 48954,
+    "mass": 9500,
+    "name": "Ash Creek",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 31.805,
+    "reclong": -97.01,
+    "year": "2009"
+  },
+  {
+    "index": 588,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        11.46745,
+        54.76183
+      ]
+    },
+    "id": 48973,
+    "mass": 25.81,
+    "name": "Maribo",
+    "nametype": "Valid",
+    "recclass": "CM2",
+    "reclat": 54.76183,
+    "reclong": 11.46745,
+    "year": "2009"
+  },
+  {
+    "index": 415,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        14.05217,
+        46.42137
+      ]
+    },
+    "id": 51589,
+    "mass": 3667,
+    "name": "Jesenice",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 46.42137,
+    "reclong": 14.05217,
+    "year": "2009"
+  },
+  {
+    "index": 338,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -79.61667,
+        43.2
+      ]
+    },
+    "id": 50911,
+    "mass": 215,
+    "name": "Grimsby",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 43.2,
+    "reclong": -79.61667,
+    "year": "2009"
+  },
+  {
+    "index": 620,
+    ":@computed_region_cbhk_fwbd": 41,
+    ":@computed_region_nnqa_25f4": 2996,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -90.36556,
+        42.9075
+      ]
+    },
+    "id": 52090,
+    "mass": 3584,
+    "name": "Mifflin",
+    "nametype": "Valid",
+    "recclass": "L5",
+    "reclat": 42.9075,
+    "reclong": -90.36556,
+    "year": "2010"
+  },
+  {
+    "index": 495,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        21.17633,
+        48.76367
+      ]
+    },
+    "id": 53810,
+    "mass": 4300,
+    "name": "Košice",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 48.76367,
+    "reclong": 21.17633,
+    "year": "2010"
+  },
+  {
+    "index": 550,
+    ":@computed_region_cbhk_fwbd": 40,
+    ":@computed_region_nnqa_25f4": 2770,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -77.21163,
+        38.70066
+      ]
+    },
+    "id": 52843,
+    "mass": 329.7,
+    "name": "Lorton",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 38.70066,
+    "reclong": -77.21163,
+    "year": "2010"
+  },
+  {
+    "index": 387,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        106.63241,
+        26.46469
+      ]
+    },
+    "id": 54719,
+    "mass": 1600,
+    "name": "Huaxi",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 26.46469,
+    "reclong": 106.63241,
+    "year": "2010"
+  },
+  {
+    "index": 597,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "id": 53653,
+    "mass": 24.54,
+    "name": "Mason Gully",
+    "nametype": "Valid",
+    "recclass": "H5",
+    "reclat": 0,
+    "reclong": 0,
+    "year": "2010"
+  },
+  {
+    "index": 996,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -7.61123,
+        29.48195
+      ]
+    },
+    "id": 54823,
+    "mass": 7000,
+    "name": "Tissint",
+    "nametype": "Valid",
+    "recclass": "Martian (shergottite)",
+    "reclat": 29.48195,
+    "reclong": -7.61123,
+    "year": "2011"
+  },
+  {
+    "index": 937,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        22.005,
+        54.00883
+      ]
+    },
+    "id": 53829,
+    "mass": 1066,
+    "name": "Sołtmany",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 54.00883,
+    "reclong": 22.005,
+    "year": "2011"
+  },
+  {
+    "index": 138,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -11.34133,
+        17.17493
+      ]
+    },
+    "id": 57167,
+    "mass": 3599,
+    "name": "Boumdeid (2011)",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 17.17493,
+    "reclong": -11.34133,
+    "year": "2011"
+  },
+  {
+    "index": 988,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        37.15028,
+        -1.00278
+      ]
+    },
+    "id": 54493,
+    "mass": 14200,
+    "name": "Thika",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": -1.00278,
+    "reclong": 37.15028,
+    "year": "2011"
+  },
+  {
+    "index": 86,
+    ":@computed_region_cbhk_fwbd": 10,
+    ":@computed_region_nnqa_25f4": 2397,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -117.18913,
+        40.66813
+      ]
+    },
+    "id": 56133,
+    "mass": 2900,
+    "name": "Battle Mountain",
+    "nametype": "Valid",
+    "recclass": "L6",
+    "reclat": 40.66813,
+    "reclong": -117.18913,
+    "year": "2012"
+  },
+  {
+    "index": 969,
+    ":@computed_region_cbhk_fwbd": 8,
+    ":@computed_region_nnqa_25f4": 1187,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -120.90806,
+        38.80389
+      ]
+    },
+    "id": 55529,
+    "mass": 992.5,
+    "name": "Sutter's Mill",
+    "nametype": "Valid",
+    "recclass": "C",
+    "reclat": 38.80389,
+    "reclong": -120.90806,
+    "year": "2012"
+  },
+  {
+    "index": 194,
+    ":@computed_region_cbhk_fwbd": null,
+    ":@computed_region_nnqa_25f4": null,
+    "fall": "Fell",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        61.11667,
+        54.81667
+      ]
+    },
+    "id": 57165,
+    "mass": 100000,
+    "name": "Chelyabinsk",
+    "nametype": "Valid",
+    "recclass": "LL5",
+    "reclat": 54.81667,
+    "reclong": 61.11667,
+    "year": "2013"
+  }
+]
