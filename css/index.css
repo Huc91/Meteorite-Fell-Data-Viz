@@ -320,6 +320,7 @@ input[type=range]:focus::-ms-fill-upper {
   h3 {
       font-size: 11px;
       margin-top: 16px;
+      padding-top: 3px;
       line-height: 18px;
   }
 
