@@ -264,6 +264,7 @@ input[type=range]:focus::-ms-fill-upper {
   h3 {
       font-size: 12px;
       margin-top: 14px;
+      line-height: 18px;
   }
 
   #landing-graph {
